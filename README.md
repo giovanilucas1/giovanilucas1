@@ -1,16 +1,16 @@
-## Hi there 👋
+🌟 Olá! Eu sou o Giovani Lucas Bento 🖐️
+<div align="center"> <a href="https://www.instagram.com/giovani_lucass/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://www.linkedin.com/in/giovani-lucas-bento/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/giovani-lucas" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div>
+👨‍💻 Sobre Mim
+Sou Desenvolvedor Full Stack com mais de 2 anos de experiência. Tenho uma grande paixão por criar soluções tecnológicas eficientes e inovadoras. Com foco em Java, Spring Boot, e React, busco sempre entregar projetos de alta qualidade.
 
-<!--
-**giovanilucas1/giovanilucas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Ciência da Computação pela Universidade Vale do Rio Verde.
+💼 Estagiário de TI no Sicoob Credivass.
+💡 Experiência com back-end e front-end, focado em soluções escaláveis.
+<div align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/> </div>
+🚀 Tecnologias que uso no meu dia a dia
+<div style="display: inline_block; text-align: center; animation: bounce 2s infinite;"> <img align="center" alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="TypeScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="Node.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="MongoDB" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="PostgreSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="animation: pulse 2s infinite;" /> <img align="center" alt="Docker" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="animation: pulse 2s infinite;" /> </div>
+🌟 Projetos Recentes
+Sistema de Gerenciamento de Filas: Desenvolvido com Spring Boot, MongoDB e front-end responsivo com Bootstrap.
+Plugin Minecraft: Um plugin que automatiza a gestão financeira de facções no jogo, integrado com Java.
+📞 Entre em Contato
+<div align="center"> <a href="mailto:giovanilucasdev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="animation: pulse 2s infinite;" /> </a> <a href="https://giovanilucas.website" target="_blank"> <img src="https://img.shields.io/badge/Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" style="animation: pulse 2s infinite;" /> </a> <p>📱 (35) 9 9953-5293</p> </div>
