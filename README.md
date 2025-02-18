@@ -11,7 +11,7 @@ Sou Desenvolvedor Full Stack com mais de 3 anos de experiência na criação de 
 
 Graduado em Ciência da Computação pela Universidade Vale do Rio Verde.
 
-Pós-graduando em Desenvolvimento Mobile e Cloud Computing no Inatel - Santa Rita.
+Cursnado Pós-graduação em Desenvolvimento Mobile e Cloud Computing na Inatel - Santa Rita do Sapucai MG.
 
 💼 Experiência Profissional:
 
