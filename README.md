@@ -24,7 +24,11 @@ RPA (Robotic Process Automation) 🤖 – Automação de processos internos.
 PortalSIN 🌐 – Plataforma de integração de serviços.
 Sistema de Gerenciamento de Filas 🏥 – Aplicação desenvolvida com Spring Boot, MongoDB e Bootstrap.
 Plugin Minecraft 🎮 – Plugin para automação de gestão financeira no jogo, utilizando Java.
+
+
+
 📞 Contato
+
 📧 E-mail: giovanilucasdev@gmail.com
 🌐 Site: giovanilucas.website
 📱 Telefone: (35) 9 9953-5293
